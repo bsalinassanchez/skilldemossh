@@ -16,6 +16,7 @@ public class examplemethod {
 		String firstLetterOfWord = examplemethod.firstLetter(args[0]);
 
 		System.out.println(firstLetterOfWord);
+		System.out.println("hello");
 	}
 
 	
